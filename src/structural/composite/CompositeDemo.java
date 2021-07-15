@@ -1,8 +1,6 @@
 package structural.composite;
 
 
-import structural.bridge.shape.*;
-
 public class CompositeDemo {
 
     public static void main(String[] args){
